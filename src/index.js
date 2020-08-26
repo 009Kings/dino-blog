@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 let post = {
   title: "dinosaurs are awesome",
   author: "stealthy stegasaurus",
-  body: "check out this body property",
+  body: "🦖 check out this body property 🦕",
   comments: ["first!", "great post", "higher this author now!"]
 }
 
